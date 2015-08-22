@@ -1,0 +1,16 @@
+feedUrl: https://sfbay.craigslist.org/search/sfc/apa?format=rss
+parseInterval: 10
+
+# Email Options (Update required)
+toEmail: username@gmail.com
+smtpUsername: username@gmail.com
+smtpPassword: password
+smtpServer: smtp.gmail.com
+smtpServerPort: 587
+
+# Filter Options.
+bedrooms: 1
+bathrooms: 1
+minPrice: 1000
+maxPrice: 8000
+isRentControlled: false
