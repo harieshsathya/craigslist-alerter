@@ -16,7 +16,7 @@ as soon as the application is started.
 ## Usage
 ```
 mvn clean compile assembly:single
-java -jar target/craigslist-alert-1.0-SNAPSHOT-jar-with-dependencies.jar /path/to/app_properties.yml
+java -jar target/craigslist-alert-0.0.1-SNAPSHOT-jar-with-dependencies.jar /path/to/app_properties.yml
 ```
 
 ## Yaml File Description
