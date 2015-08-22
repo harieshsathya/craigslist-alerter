@@ -1,6 +1,6 @@
 # craigslist-alerter
 
-A java application that sends out email alerts for the provided filters such as,
+A simple java application that uses the craigslist rss feed to send email alerts based on filters such as,
 
 1. Number of beds/baths
 2. Minimum/Maximum price
@@ -52,6 +52,4 @@ isRencontrolled: Boolean value.
 * A sample app_properties.yml is included under src/main/resources
 * All the parameters are required.
 * For Gmail SMTP, use smtp.gmail.com as server and 587 as port. Username is your email address and your password.
-* Specify the parseInterval at an appropriate value to avoid an email storm.
-
-
+* Specify the parseInterval and filter options at an appropriate value to avoid an email storm.
