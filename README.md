@@ -37,10 +37,15 @@ Example: smtp.gmail.com
 smtpServerPort: SMTP server port.
 
 ### Filter Options:
+
 bedrooms: Minimum number of bedrooms. Integer value.
+
 bathrooms: Maximum number of bedrooms. Integer value.
+
 minPrice: Minimum rent. Integer value.
+
 maxPrice: Maximum rent. Integer value.
+
 isRencontrolled: Boolean value.
 
 ## Notes
