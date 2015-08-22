@@ -10,7 +10,7 @@ public class AppProperties {
     public int bathrooms;
     public int minPrice;
     public int maxPrice;
-    boolean isRentControlled;
+    public boolean isRentControlled;
 
     public String toEmail;
     public String smtpUsername;
